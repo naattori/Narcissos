@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\InventoryManagement.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CharacterMovement.cs" Line="33" Column="7" />
+      <File FileName="Assets\Scripts\CursorControl.cs" Line="14" Column="38" />
+      <File FileName="Assets\Scripts\ItemBehaviour.cs" Line="41" Column="36" />
+      <File FileName="Assets\Scripts\InventoryManagement.cs" Line="25" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
